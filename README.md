@@ -1,6 +1,7 @@
 # ProductFormula101
-This is a MultiProjec folder where i share thre projects from Growth Product Management NanoDegree from Udacity.
-First Project: Adquisition Framework steps based on a Well informed and Hipotetical Business Case 
+This is a MultiProjec folder where I share YOU three projects from Growth Product Management NanoDegree from Udacity where i applied powefull concepts and techniques to Boost the growth of any Technological Company used from the Top WorldClass Startups
+.
+First Project: Adquisition Framework steps based on a well informed and Hipotetical Business Case 
 ![A1](https://user-images.githubusercontent.com/109490056/184507563-563d121e-b957-4a2b-89f3-6331d12e77d8.PNG)
 
 In the Inspecting Landscape: I analyze Business Goals &Product Strategy, then Growth Compenents  and Metrics, as well as the Target Personas
@@ -11,3 +12,6 @@ In Mapping out the path to Growth i applied powerfull concepts to built a Growth
 Finally Validating the Path to Growth using A/B Test plans and Product Market Expansion Opportunity
 
 ![A2](https://user-images.githubusercontent.com/109490056/184507878-a363b1c1-9c64-4e9d-ba89-0c5c10497c37.PNG)
+
+
+Second Project: Activation Framework steps
