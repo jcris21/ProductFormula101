@@ -15,3 +15,16 @@ Finally Validating the Path to Growth using A/B Test plans and Product Market Ex
 
 
 Second Project: Activation Framework steps
+Tasks
+1.Signup Flow
+  1aMeasure drop-offs
+  2aSignup Experiments
+2.Understand Product
+  2a.Activation Hypothesis
+3.Funnel Analysis
+  3a.Habit Moment and Metric Analysis
+  3b.Aha Moment and Metric Analysis
+  3c.Setup Moment and Metric Analysis
+  3d.Activation Funnel
+4.Activation by Segment
+  4a.Segment Analysis
