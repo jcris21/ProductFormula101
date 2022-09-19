@@ -15,8 +15,11 @@ Finally Validating the Path to Growth using A/B Test plans and Product Market Ex
 
 
 Second Project: Activation Framework steps
+
 Tasks
+
 1.Signup Flow
+
   1a.Measure drop-offs
   1b.Signup Experiments
 2.Understand Product
