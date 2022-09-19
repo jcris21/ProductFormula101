@@ -14,20 +14,38 @@ Finally Validating the Path to Growth using A/B Test plans and Product Market Ex
 ![A2](https://user-images.githubusercontent.com/109490056/184507878-a363b1c1-9c64-4e9d-ba89-0c5c10497c37.PNG)
 
 
-Second Project: Activation Framework steps
+Second Project: Activation
 
-Tasks
+Tasks for (https://app.productboard.com/register) real userflow and simulated data.
 
 1.Signup Flow
 
-  1a.Measure drop-offs
-  1b.Signup Experiments
+  1a. I Calculate drop-offs at each step of sign up flow:
+  From: 
+  Click-through #	Click-through %	Drop-off, What is the Call-To-Action (CTA)?	What information is being asked on this step?,etc 
+  Until:	
+  Is this good friction or bad friction 	Experiment Brief
+  
+   I Analyzed how to reduce drop-offs (increase the signup completion rate) in the flow
+   I Think on how to get users through the activation funnel
+  
+  1b.Signup Experiments:   (4) I Create experiments using the [ACTION], [OUTCOME], and [THEORY] framework.
+
+  
 2.Understand Product
+  
   2a.Activation Hypothesis
+
 3.Funnel Analysis
+  
   3a.Habit Moment and Metric Analysis
+  
   3b.Aha Moment and Metric Analysis
+  
   3c.Setup Moment and Metric Analysis
+  
   3d.Activation Funnel
+  
 4.Activation by Segment
+
   4a.Segment Analysis
