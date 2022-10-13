@@ -14,11 +14,11 @@ Finally Validating the Path to Growth using A/B Test plans and Product Market Ex
 ![A2](https://user-images.githubusercontent.com/109490056/184507878-a363b1c1-9c64-4e9d-ba89-0c5c10497c37.PNG)
 
 
-Second Project: Activation
+# Second Project: Activation
 
 Tasks for (https://app.productboard.com/register) real userflow and simulated data.
 
-1.Signup Flow
+# 1.Signup Flow
 
   1a. I Calculate drop-offs at each step of sign up flow:
   From: 
@@ -32,11 +32,11 @@ Tasks for (https://app.productboard.com/register) real userflow and simulated da
   1b.Signup Experiments:   (4) I Create experiments using the [ACTION], [OUTCOME], and [THEORY] framework.
 
   
-2.Understand Product
+# 2.Understand Product
   
   2a.Activation Hypothesis
 
-3.Funnel Analysis
+# 3.Funnel Analysis
   
   3a.Habit Moment and Metric Analysis
   
@@ -46,6 +46,6 @@ Tasks for (https://app.productboard.com/register) real userflow and simulated da
   
   3d.Activation Funnel
   
-4.Activation by Segment
+# 4.Activation by Segment
 
   4a.Segment Analysis
