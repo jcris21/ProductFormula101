@@ -1,5 +1,5 @@
 # ProductFormula101
-This is a MultiProjec folder where I share YOU three projects from Growth Product Management NanoDegree from Udacity where i applied powefull concepts and techniques to Boost the growth of any Technological Company used from the Top WorldClass Startups
+This is a MultiProjec folder where I share YOU 2 projects from Growth Product Management NanoDegree from Udacity where i applied powefull concepts and techniques to Boost the growth of any Technological Company used from the Top WorldClass Startups
 .
 
 # First Project: Adquisition/ Framework steps based on a well informed and Hipotetical Business Case 
